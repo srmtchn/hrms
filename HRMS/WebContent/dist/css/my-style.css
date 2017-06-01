@@ -1,0 +1,18 @@
+.cover-photo	{
+	border: 2px solid #ff00ff;
+}
+.pc	{
+	position:absolute;
+	margin-top:160px;
+	margin-left:35px;
+}
+.my-profile	{
+	margin-top:50px;
+	margin-left:35px;
+	
+}
+.eedit	{
+
+	width:150px;
+	float:right;
+}
